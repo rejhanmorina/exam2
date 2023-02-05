@@ -1,0 +1,54 @@
+.thirdpart {
+    display: flex;
+    margin-top: 100px;
+}
+
+.image7 {
+    margin-left: 300px;
+    margin-top: 150px;
+} 
+
+.text2 {
+    padding: 100px 70px 70px 100px;
+}
+
+.btn3 {
+    padding-right: 22px;
+    padding-bottom: 15px;
+    background: #FDC212;
+    border-radius: 50px;
+    border: none;
+    color: #000000;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+  
+}
+
+.btn3 img {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.btn4 {
+    width: 220px;
+    height: 60px;
+    background: #FDC212;
+    border-radius: 50px;
+    border: none;
+    color: #000000;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+.btn4 img {
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}

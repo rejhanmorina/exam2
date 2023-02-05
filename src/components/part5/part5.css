@@ -1,0 +1,33 @@
+.footer {
+    width: 100%;
+    display: flex;
+    background-color: #fee59a;
+    padding-left: 200px;
+}
+
+.footer h2 {
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 500;
+    color: #000000;
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+
+.footer li {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #000000;
+    margin-top: 8px;
+    list-style: none;
+}
+
+.rejhan {
+    font-weight: 300;
+    text-align: center;
+    color: #555454;
+    padding-left: 470px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
